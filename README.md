@@ -2,7 +2,7 @@
 
 🎓 Finance & Applied Mathematics student at the University of New Mexico  
 📍 Based in the U.S. | 🇪🇸 Originally from Spain  
-📊 Aspiring Quantitative Analyst | CFA Level I Candidate (Nov 2025)  
+📊 CFA Level I Candidate (Nov 2025)  
 📚 Passionate about markets, statistics, optimization, and algorithmic trading
 
 ---
